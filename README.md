@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThinkAnts
-- 👀 I’m interested in Mobile application development
-- 🌱 I’m currently learning new stuff in ios development
-- 💞️ I’m looking to collaborate on swift
+- 👀 I’m interested in Mobile application development i.e. iOS development.
+- 🌱 I’m currently learning new stuff Mobile development in React Native 
+- 💞️ I’m looking to collaborate on swift, SwiftUI, React Native.
 - 📫 How to reach me on my email
 
 <!---
