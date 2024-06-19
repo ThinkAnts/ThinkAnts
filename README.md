@@ -1,10 +1,7 @@
-Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ravi Kishore
+Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ,  Welcome to my Github page!
 ====================================================================================================================================
 
-Senior iOS and Mac OSX Engineer
-----------------------------
-
-I'm Ravi Software Engineer having 10+ years of experience working in Objective C, Swift and Swift UI.
+I'm Ravi Senior Software Engineer having 10+ years of experience working in Objective C, Swift and Swift UI.
 
 * 🌍  I'm based in Bengaluru, Karnataka , India
 * ✉️  You can contact me at [rkishore.r7@gmail.com](mailto:rkishore.r7@gmail.com)
