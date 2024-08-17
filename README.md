@@ -1,7 +1,7 @@
 Hey there,  Welcome to my Github page!
 ====================================================================================================================================
 
-I'm Ravi Senior Software Engineer having 10+ years of experience working in iOS & Mac OS apps.
+I'm Ravi Senior Software Engineer having 12+ years of experience working in iOS , Mac OS and Andriod apps.
 
 * 🌍  I'm based in Bengaluru, Karnataka , India
 * ✉️  You can contact me at [rkishore.r7@gmail.com](mailto:rkishore.r7@gmail.com)
