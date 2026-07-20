@@ -1,12 +1,11 @@
 Hey there,  Welcome to my Github page!
 ====================================================================================================================================
 
-“I’m Ravi, a Senior Software Engineer with 15+ years of experience leading the development of mobile applications (iOS, Android, React Native) and backend services using Python.”
+“I’m Ravi, a Senior Software Engineer with 17 years of experience leading the development of mobile applications (iOS, Android, React Native) and backend services using Python.”
 
 * 🌍  I'm based in Bengaluru, Karnataka , India
 * ✉️  You can contact me at [rkishore.r7@gmail.com](mailto:rkishore.r7@gmail.com)
 * 🤝  I'm open to collaborating on Machine Learning and AI projects.
-* 🌱  I’m currently learning **Andriod Development and Machine Learning.**
 
 ### Skills
 
